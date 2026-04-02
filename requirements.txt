@@ -1,6 +1,7 @@
 streamlit
 pandas
 plotly
-folium
+requests
 folium
 streamlit-folium
+reportlab
