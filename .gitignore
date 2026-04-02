@@ -1,0 +1,12 @@
+@"
+# 忽略临时文件和AI工具文件夹
+.openclaw-zero/
+.codex/
+.gemini/
+.cursor/
+AppData/
+.android/
+**/__pycache__/
+**/.DS_Store
+*.log
+"@ >
